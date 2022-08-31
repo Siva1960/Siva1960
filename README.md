@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sivasankar
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on Start-ups
 - 📫 To reach me try sivavs021@gmail.com
 
